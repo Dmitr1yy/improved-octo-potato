@@ -26,7 +26,7 @@ function encodeLine(str) {
          }
       }
    }
-   return result;
+   return result;   return result;
 }
 
 module.exports = {
